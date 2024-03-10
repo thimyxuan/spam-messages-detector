@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/spam-messages-detector.git```
+```$ git clone https://github.com/thimyxuan/spam-messages-detector.git```
 
 ## Dépendances
 
