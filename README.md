@@ -8,6 +8,8 @@
 
 Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
 
+Les notebooks peuvent être exécutés dans Google Colab afin de bénéficier de plus grandes ressources de calcul.
+
 ## Stack technique
 
 - Python
