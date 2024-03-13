@@ -18,7 +18,6 @@ Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
 - Sklearn
 - Tensorflow
 - Keras
-- Transformers Hugging Face
 
 ## Sujet
 
@@ -50,8 +49,7 @@ PARTIE 2 - Modèles de deep learning
 PARTIE 3 -Transfer learning
 - Modèle BERT
 - Preprocessings
+- Construction du modèle
 - Fine tuning
 - Entraînement
-- Résulats
-
-Conclusion
+- Résultats
