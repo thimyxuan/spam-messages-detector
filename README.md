@@ -49,9 +49,8 @@ PARTIE 2 - Modèles de deep learning
 - Résultats et comparaison
 
 PARTIE 3 -Transfer learning
-- Modèle BERT
+- Modèle DistilBERT
 - Preprocessings
-- Construction du modèle
-- Fine tuning
-- Entraînement
+- Encodage du texte
+- Modèle de régression logistique
 - Résultats
